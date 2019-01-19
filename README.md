@@ -1,0 +1,2 @@
+# jsos
+JavaScript Object Storage
